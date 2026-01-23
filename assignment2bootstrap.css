@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(33, 33, 227);
+}
+a{
+    background-color: grey;
+}
+h1{
+    color: white; 
+    text-decoration: underline yellow;
+}
+p{
+    color: white;
+}
